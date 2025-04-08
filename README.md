@@ -57,6 +57,18 @@ This effort is made with deep respect for the timeless wisdom found in Jain phil
 
 ---
 
+## ✍️ Spelling or Grammar Corrections?
+
+These documents are manually typed in Unicode fonts, and some texts (especially in Devanagari) may still contain **minor spelling or formatting issues** despite best efforts.
+
+If you notice any such errors and would like to help improve the accuracy, feel free to contact me:
+
+📧 **mehulchanpura76@gmail.com**
+
+Your support in preserving and refining this important work is deeply appreciated.
+
+---
+
 ## 🙋‍♂️ Contributions Welcome
 
 This is a solo volunteer effort, and I am not a technical expert. If you wish to help:
