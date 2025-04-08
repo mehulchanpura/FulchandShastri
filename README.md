@@ -23,7 +23,7 @@ These documents are carefully typed, formatted, and protected using Microsoft Wo
 Each `.docx` file contains one book or collection of teachings by Shri Fulchand Shastri. All files:
 - Use Unicode fonts to maintain script integrity
 - Are formatted for clear reading
-- Are editable-protected but can be copied for study or reference
+- Are editing-restricted but can be copied for reference and study
 
 ### Example Titles
 - Jain Tattva Gyan
@@ -35,7 +35,7 @@ Each `.docx` file contains one book or collection of teachings by Shri Fulchand 
 
 ## 🔍 Keywords (for Search)
 
-True Jainism, Jain Philosophy, Fulchand Shastri, Jain Religious Books, Jain Texts in Unicode, Jain Literature, Jainism Digital Preservation, Jain Knowledge, Samyak Darshan
+True Jainism, Jain Philosophy, Fulchand Shastri, Jain Religious Books, Jain Texts in Unicode, Jain Literature, Jainism Digital Preservation, Jain Knowledge, Samyak Darshan, Jain Documents, Jain Scriptures
 
 ---
 
@@ -53,7 +53,10 @@ This effort is made with deep respect for the timeless wisdom found in Jain phil
 - Download the `.docx` files directly from this repository
 - Open them in Microsoft Word or any compatible editor
 - Read and study freely
-- Copy text if needed — but please do not modify the originals
+- Copy text if needed — and if you're inspired, use it for translation or preservation work for future generations
+- Please do not modify the original files inside this repository
+
+🌍 *My humble request to future readers: if you understand this language and know how to translate it into the language of your time, please do so with care and devotion — and preserve it as I have tried to do, so the hidden truth and secrets of True Religion may continue to shine for thousands of years.*
 
 ---
 
