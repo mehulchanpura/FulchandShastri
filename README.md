@@ -1,1 +1,1 @@
-This repository contains ancient Jain religious books written by Shri Fulchand Shastri. These are typed in Unicode and preserved for future generations. This collection includes books about True Jainism, philosophy, and spirituality.
+This repository contains Jain religious books written by Shri Fulchand Shastri. These are typed in Unicode and preserved for future generations. This collection includes books about True Jainism, philosophy, and spirituality.
